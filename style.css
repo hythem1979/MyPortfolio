@@ -6,12 +6,12 @@ h1, h2, h3 {
 
 h1{
   color: #FFFFFF;
-  font-size: 5em;
+  font-size: 7em;
 }
 
 h2{
   font-size: 3em;
-  color: #585446;
+  color: #AF5E0F;
   padding-bottom: 20px;
 }
 
@@ -118,6 +118,7 @@ section header {
 #home{
   background: url("http://khongthe.com/wallpapers/abstract/danbo-likes-strawberries-99274.jpg")  no-repeat center center fixed;
   background-size: cover;
+  padding-top:250px;
 }
 
 #about{
