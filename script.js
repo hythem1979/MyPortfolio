@@ -1,1 +1,4 @@
-$('a').smoothScroll({speed: "auto", autoCoefficient: 2});
+
+$( document ).ready(function() {
+    $('a').smoothScroll({speed: "auto", autoCoefficient: 2});
+});
